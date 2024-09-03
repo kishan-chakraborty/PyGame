@@ -7,7 +7,7 @@ import pygame
 
 # Declare the screen dimension.
 width = 800
-height = 800
+height = 600
 screen = pygame.display.set_mode((width, height))
 
 # Define line geometry.
